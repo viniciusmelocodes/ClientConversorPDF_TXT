@@ -1,7 +1,3 @@
-# Delphi Chromium Embeded 3
+# ClientConversorPDF_TXT
 
-This is the Delphi components for embeding Chromium.
-
-It rely on the [CEF3](https://bitbucket.org/chromiumembedded/cef) project to achieve this objective.
-
-Feel free to ask questions on this [group](https://groups.google.com/forum/#!forum/delphichromiumembedded).
+Componente CEF3[CEF3](https://github.com/01viniciusmelo/dcef3)
